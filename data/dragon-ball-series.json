@@ -1,0 +1,74 @@
+[
+  {
+    "title": "Dragon Ball",
+    "type": "series",
+    "yearRange": {
+      "start": 1986,
+      "end": 1989
+    }
+  },
+  {
+    "title": "Dragon Ball Z",
+    "type": "series",
+    "yearRange": {
+      "start": 1989,
+      "end": 1996
+    }
+  },
+  {
+    "title": "Dragon Ball GT",
+    "type": "series",
+    "yearRange": {
+      "start": 1996,
+      "end": 1997
+    }
+  },
+  {
+    "title": "Dragon Ball Super",
+    "type": "series",
+    "yearRange": {
+      "start": 2015,
+      "end": 2018
+    }
+  },
+  {
+    "title": "Dragon Ball Daima",
+    "type": "series",
+    "yearRange": {
+      "start": 2024,
+      "end": 2025
+    }
+  },
+  {
+    "title": "Dragon Ball Z: Battle of Gods",
+    "type": "film",
+    "yearRange": {
+      "start": 2013,
+      "end": 2013
+    }
+  },
+  {
+    "title": "Dragon Ball Z: Resurrection 'F'",
+    "type": "film",
+    "yearRange": {
+      "start": 2015,
+      "end": 2015
+    }
+  },
+  {
+    "title": "Dragon Ball Super: Broly",
+    "type": "film",
+    "yearRange": {
+      "start": 2018,
+      "end": 2018
+    }
+  },
+  {
+    "title": "Dragon Ball Super: Super Hero",
+    "type": "film",
+    "yearRange": {
+      "start": 2022,
+      "end": 2022
+    }
+  }
+]
